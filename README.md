@@ -11,11 +11,11 @@ Learned how to use git and connected local repo to github by the following comma
 Branching
 
 - **git fetch** {pull all the data from origin}
-- **git checkout -b seconbranch** {created and switched to a new branch "seconbranch"}
+- **git checkout -b newbranch** {created and switched to a new branch "newbranch"}
 - **git branch** {displays all the branches}
   
      *now making changes in mybranch (done staging and commiting)*
  
-- **git push origin seconbranch** {pushed the changes/file to the githubLearning repository(origin) for seconbranch branch in github}
+- **git push origin newbranch** {pushed the changes/file to the githubLearning repository(origin) for newbranch branch in github}
 
-created a pull request and merged the seconbranch with the master 
+created a pull request and merged the newbranch with the master 
