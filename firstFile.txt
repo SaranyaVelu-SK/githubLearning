@@ -1,0 +1,1 @@
+"Successfully created first file using git commands in git bash"
