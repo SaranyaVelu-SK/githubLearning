@@ -109,3 +109,10 @@ The most recent stash is on top, and you can apply or drop stashes from the top 
 - When deleting a branch, make sure it's merged first. If you try to delete an unmerged branch, Git will prevent you from doing so.
 
 - To force delete an unmerged branch, use **git branch -D branch-name.**
+
+# SSH:
+
+*How SSH Keys Work*
+- SSH keys come in pairs: a public key (like a lock) and a private key (like your own key).
+- You share the public key with the server (like GitHub or Bitbucket), but keep the private key safe on your computer.
+- Only someone with the private key can access what's locked by the public key.
